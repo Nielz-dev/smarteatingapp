@@ -1,0 +1,18 @@
+# SmartEatingApp
+
+SmartEating es mi proyecto final de grado superior y busca organizar de forma eficiente los platos y comidas semanales o mensuales en un restaurante o ámbito personal. Su objetivo es optimizar la planificación de menús, facilitar la gestión de ingredientes y reducir desperdicios y costes.
+
+# Tecnologías utilizadas
+
+## Backend 
+
+Django
+Django Rest Framework
+Djoser
+
+## Frontend 
+
+Vue js
+Javascript
+Tailwind css
+
