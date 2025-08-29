@@ -1,22 +1,36 @@
-# SmartEatingApp
+# 🍽️ SmartEatingApp
 
-![alt text](./logo.png) 
+![Imagen de la aplicación](./shot.png)
 
-SmartEating es mi proyecto final de grado superior y busca organizar de forma eficiente los platos y comidas semanales o mensuales en un restaurante o ámbito personal. Su objetivo es optimizar la planificación de menús, facilitar la gestión de ingredientes y reducir desperdicios y costes.
+**SmartEatingApp** es mi proyecto final de Grado Superior.  
+Su propósito es **organizar de forma eficiente los platos y comidas semanales o mensuales** en un restaurante o en un ámbito personal.  
 
-# Tecnologías utilizadas
+✨ Los principales objetivos de la aplicación son:  
+- 📋 Optimizar la planificación de menús.  
+- 🛒 Facilitar la gestión de ingredientes.  
+- ♻️ Reducir desperdicios de alimentos.  
+- 💰 Disminuir costes de operación.  
 
-## Backend
+---
 
-- Python
-- Django  
-- Django Rest Framework  
-- Djoser
+## 🛠️ Tecnologías utilizadas
 
-## Frontend
+### 🔹 Backend
+- 🐍 **Python**
+- 🌐 **Django**
+- ⚙️ **Django Rest Framework**
+- 🔐 **Djoser**
 
-- HTML
-- CSS
-- Vue.js  
-- JavaScript  
-- Tailwind CSS
+### 🔹 Frontend
+- 🖼️ **HTML5**
+- 🎨 **CSS3**
+- ⚡ **Vue.js**
+- 💻 **JavaScript**
+- 🎨 **Tailwind CSS**
+
+---
+
+## 📷 Logo del proyecto
+<img src="./logo.png" alt="Logo SmartEatingApp" width="120" style="border-radius: 15px;"/>
+
+---
